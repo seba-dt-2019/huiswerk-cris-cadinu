@@ -15,3 +15,5 @@ for (int i = 0;i<5;i++) {
 //  println(j);
 //  j++;
 //}
+
+// Waarom is er geen incrementele stijging van de positie op de x-as?
